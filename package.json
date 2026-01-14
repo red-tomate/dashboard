@@ -1,0 +1,18 @@
+{
+  "name": "tomate-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Tomate marketing page and dashboard",
+  "scripts": {
+    "dev:marketing": "pnpm --filter marketing dev",
+    "dev:dashboard": "pnpm --filter dashboard dev",
+    "build:marketing": "pnpm --filter marketing build",
+    "build:dashboard": "pnpm --filter dashboard build",
+    "preview:marketing": "pnpm --filter marketing preview",
+    "preview:dashboard": "pnpm --filter dashboard preview"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "prettier-plugin-svelte": "^3.2.2"
+  }
+}
