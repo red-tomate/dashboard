@@ -13,7 +13,7 @@
 			<!-- Social Links -->
 			<div class="flex gap-6">
 				<a
-					href="https://github.com/tomate"
+					href="https://github.com/red-tomate"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="font-mono text-sm text-gray-400 transition-colors hover:text-red-500"
@@ -22,16 +22,16 @@
 					GitHub
 				</a>
 				<a
-					href="https://twitter.com/tomate"
+					href="https://x.com/"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="font-mono text-sm text-gray-400 transition-colors hover:text-red-500"
-					aria-label="Twitter"
+					aria-label="X"
 				>
-					Twitter
+					X
 				</a>
 				<a
-					href="https://discord.gg/tomate"
+					href="https://discord.gg/"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="font-mono text-sm text-gray-400 transition-colors hover:text-red-500"

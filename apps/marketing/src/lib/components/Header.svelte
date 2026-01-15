@@ -6,7 +6,6 @@
 	<nav class="container mx-auto flex items-center justify-between px-4 py-4">
 		<!-- Logo -->
 		<a href="/" class="flex items-center gap-2 text-xl font-bold text-red-500">
-			<span class="text-2xl">🍅</span>
 			<span class="font-mono">TOMATE</span>
 		</a>
 
