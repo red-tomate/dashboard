@@ -6,7 +6,7 @@
 			<div
 				class="mb-4 inline-block border-4 border-red-500 bg-gradient-to-br from-red-600 to-red-700 px-6 py-2 shadow-[8px_8px_0px_0px_rgba(220,38,38,0.3)]"
 			>
-				<span class="font-mono text-sm uppercase tracking-wider text-red-200">Blockchain Indexing</span>
+				<span class="font-mono text-sm uppercase tracking-wider text-red-200">Indexing. Realtime.</span>
 			</div>
 		</div>
 
@@ -18,8 +18,7 @@
 		</h1>
 
 		<p class="mb-8 font-mono text-lg text-gray-300 md:text-xl">
-			Real-time blockchain event indexing.<br />
-			Subscribe. Transform. Query.
+			Real-time blockchain event indexing.
 		</p>
 
 		<!-- Pixel art style buttons -->

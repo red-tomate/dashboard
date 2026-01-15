@@ -1,8 +1,10 @@
 <script lang="ts">
 	import favicon from '$lib/assets/favicon.svg';
 	import '../app.css';
-
-	let { children } = $props();
+	import { page } from '$app/stores';
+	
+	let { children, data } = $props();
+	const session = $derived(data.session);
 </script>
 
 <svelte:head>
